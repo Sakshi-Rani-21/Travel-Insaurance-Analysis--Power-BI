@@ -11,4 +11,4 @@ The Travel Insurance Insights Dashboard provides an interactive, visual represen
 - To see the power bi dashboard first download Microsoft Power BI then open [travel insaurance dashboard](https://github.com/Sakshi-Rani-21/Travel-Insaurance-Analysis--Power-BI/blob/c43ae6ec935d66bc6ea906e80961251d822c020b/TRAVEL%20INSAURANCE%20ANALYSIS%20PROJECT.pbix)
 
 ## DASHBOARD PREVIEW:
-![Heathcare Dashboard](https://github.com/Sakshi-Rani-21/Healthcare-Analysis-PowerBI-/blob/9d1d2e3d43aa2ca655fa73365024ecf09bfb979b/Heath%20care%20Dashboard.png)
+![Sales and Commissison Dashboard](https://github.com/Sakshi-Rani-21/Travel-Insaurance-Analysis--Power-BI/blob/2c2ad5ab2e603c727e0dc756aa851eff50a08969/Sales%20and%20Commission%20Dashboard.png)
