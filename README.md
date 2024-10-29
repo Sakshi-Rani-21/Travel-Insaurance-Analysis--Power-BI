@@ -7,7 +7,7 @@ The Travel Insurance Insights Dashboard provides an interactive, visual represen
 - **Analysis:** In-depth analyses of customer demographics, feedback patterns, and resource utilization to provide actionable insights.
 - **Interactive Dashboards:** Users can interact with the dashboards in Power BI to explore the data dynamically, enabling drill-downs into specific areas of interest and providing a customized user experience.
 ## Dataset
-- To access the dataset open [healthcare dataset]( https://github.com/Sakshi-Rani-21/Healthcare-Analysis-PowerBI-/blob/main/Papollo-Healtcare-Dataset.xlsx)
+- To access the dataset open [travel insaurance dataset]( [https://github.com/Sakshi-Rani-21/Healthcare-Analysis-PowerBI-/blob/main/Papollo-Healtcare-Dataset.xlsx](https://github.com/Sakshi-Rani-21/Travel-Insaurance-Analysis--Power-BI/blob/ff39b269274b3d77609e66ea299d58731867f1e0/travel%20insurance%20dataset.csv])
 - To see the power bi dashboard first download Microsoft Power BI then open [healthcare dashboard](https://github.com/Sakshi-Rani-21/Healthcare-Analysis-PowerBI-/blob/main/HEALTHCARE%20PROJECT.pbix)
 
 ## DASHBOARD PREVIEW:
